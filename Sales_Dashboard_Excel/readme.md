@@ -1,5 +1,5 @@
 
-# DataAnalysis of Sales
+# Sales Dashboard - Excel
 
  <p><strong>Demo</strong></strong></p>
 
