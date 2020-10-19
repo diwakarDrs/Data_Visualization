@@ -1,13 +1,18 @@
 
-# Sales Dashboard - Excel
+# Sales Analysis - Excel Dashboard
 
  <p><strong>Demo</strong></strong></p>
 
  <p align='center'>
  
- <img src = "https://github.com/diwakarDrs/Data_Visualization/blob/master/Sales_Dashboard_Excel/Sales_DashBoard.PNG" width = 800 alt="Movie_release">
+ <img src = "https://github.com/diwakarDrs/Data_Visualization/blob/master/Excel_SalesDashboard/SaleRevenue_month.PNG" width = 800 alt="Movie_release">
  
-  
+   <img src ="https://github.com/diwakarDrs/Data_Visualization/blob/master/Excel_SalesDashboard/sales.PNG" width = 800 alt="Sales">
+   
+   <img src ="https://github.com/diwakarDrs/Data_Visualization/blob/master/Excel_SalesDashboard/Revenue.PNG" width = 800 alt="Revenue">
+   
+   <img src ="https://github.com/diwakarDrs/Data_Visualization/blob/master/Excel_SalesDashboard/Slicer.PNG" width = 200 alt="Slicer">
+   
  </p>
  
  <p><strong>Preparing the data for the dashboard</strong></strong></p>
