@@ -1,5 +1,5 @@
 
-# Sales Analysis - Excel Dashboard
+# Sales Analysis - Excel Interactive Dashboard
 
  <p><strong>Demo</strong></strong></p>
 
