@@ -1,5 +1,5 @@
 
-# Sales Dashboard - Excel
+# Sales Dashboard using Power Query
 
  <p><strong>Demo</strong></strong></p>
 
@@ -12,6 +12,7 @@
  
  <p><strong>Preparing the data for the dashboard</strong></strong></p>
 <ul>
+ Data wrangling is done using Power Query Editor
 <li>Keeping inputs clean with data validation</li>
 <li>Mass cleaning data with text manipulating functions&nbsp;</li>
 <li>Removing duplicates</li>
