@@ -1,5 +1,5 @@
 
-# Sales Analysis - Excel Interactive Dashboard
+# Excel Interactive Dashboard - Using Pivot table
 
  <p><strong>Demo</strong></strong></p>
 
