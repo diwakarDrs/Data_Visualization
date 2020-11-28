@@ -34,6 +34,6 @@
 <li>Understanding the 4 quadrants of a pivot table</li>
 <li>Creating, sorting and filtering pivot tables&nbsp;</li>
 <li>Creating interactive data tables with slicers</li>
-<li>Inserting control buttons</li>
+<li>Inserting control buttons.</li>
 </ul>
 <p><strong>&nbsp;</strong></p>
